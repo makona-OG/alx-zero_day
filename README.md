@@ -1,1 +1,1 @@
-My first readme
+some coding and collaboration experience achieved
